@@ -15,5 +15,5 @@ libraryDependencies ++= Seq(
 lazy val root = (project in file("."))
   .settings(
     name := "climb",
-    idePackagePrefix := Some("com.github.edustocchero")
+    idePackagePrefix := Some("com.github.edustocchero.climb")
   )
